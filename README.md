@@ -1,7 +1,6 @@
 # Tetris
-Tetris
 
-I made this version of Tetris with a Java library called libjcsi.
+I made this version of Tetris with a Java library called libjcsi. There are four tetrominos which you can move into a container. They all have hitboxes so they wont fall through. Unfortunately you cant rotate them and there is no constant velocity on the negative y axis.
 
 
 ## Showcase
